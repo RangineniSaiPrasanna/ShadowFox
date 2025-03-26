@@ -2,9 +2,9 @@
 This repository contains my data science projects from the ShadowFox Data Science Internship. The projects focus on data visualization, air quality analysis, and music dataset exploration. Each project applies data science techniques to extract insights from real-world datasets.
 
 **Technologies Used:**
-Programming Language: Python
-Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn,Dash(for interactive visualizations).
-Tools: Jupyter Notebook
+**Programming Language**: Python
+**Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn,Dash(for interactive visualizations).
+**Tools:**Jupyter Notebook
 
 **Projects:**
 1)**Beginner Level: Data Visualization using Matplotlib & Seaborn:**
