@@ -17,7 +17,7 @@ Tools: Jupyter Notebook
 -Time-series analysis to observe pollution trends.
 -Visualized AQI variations over time.
 
-3) **Advanced Level: Music Dataset Analysis**
+3)**Advanced Level: Music Dataset Analysis**
 -Data preprocessing and encoding handling for a Spotify dataset.
 -Visualized music trends using interactive graphs.
 -Explored relationships between audio features and popularity.
