@@ -6,7 +6,7 @@ Programming Language: Python
 Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn,Dash(for interactive visualizations).
 Tools: Jupyter Notebook
 
-**Project:**
+**Projects:**
 1)**Beginner Level: Data Visualization using Matplotlib & Seaborn:**
 -Created various plots (line charts, scatter plots, histograms, etc.).
 -Learned how to customize plots and add labels.
