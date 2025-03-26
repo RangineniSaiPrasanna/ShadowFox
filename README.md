@@ -4,7 +4,7 @@ This repository contains my data science projects from the ShadowFox Data Scienc
 **Technologies Used:**
 **Programming Language**: Python
 **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn,Dash(for interactive visualizations).
-**Tools:**Jupyter Notebook
+**Tools**: Jupyter Notebook
 
 **Projects:**
 1)**Beginner Level: Data Visualization using Matplotlib & Seaborn:**
